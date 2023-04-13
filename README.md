@@ -1,5 +1,5 @@
-chatGTP
-chatGTP web 悬浮按钮和悬浮聊天窗，基于：node.js、vue2、vuetify开发
+
+chatGTP-web 悬浮按钮和悬浮聊天窗，基于：node.js、vue2、vuetify开发
 
 效果： 点击悬浮按钮，进入悬浮窗，
       发送消息可以使用按钮或空格
